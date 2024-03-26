@@ -40,6 +40,7 @@ const Wrapper = styled.section`
   background-color: ${({ theme }) => theme.colors.bg};
 
   .container {
+    width: 90%;
     max-width: 120rem;
   }
 

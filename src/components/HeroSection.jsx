@@ -36,6 +36,10 @@ const HeroSection = () => {
 const Wrapper = styled.section`
   padding: 9rem 0;
 
+  .container{
+    width: 90%;
+  }
+
   .section-hero-data {
     display: flex;
     flex-direction: column;
